@@ -1,3 +1,10 @@
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
+
+
 from twilio.rest import Client
 import time
 
@@ -69,3 +76,10 @@ def send_order_info(x): #takes in a list
         )
 
 #print(message.sid)
+
+
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
