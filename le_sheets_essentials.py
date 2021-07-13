@@ -1,3 +1,10 @@
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
+
+
 #this will only work with Oshud Delivery
 
 import os
@@ -68,3 +75,10 @@ def covid_order_prep(x, y):
     file.close()
 
     return x
+
+
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
