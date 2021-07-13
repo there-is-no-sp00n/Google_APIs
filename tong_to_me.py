@@ -1,3 +1,10 @@
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
+
+
 #this will only work with Tong To Me B&H
 #need to add this module to le_sheets_essentials.py
 
@@ -101,3 +108,10 @@ def tong_order_prep(x, y):
 
 
     return x
+
+
+'''
+
+Copyright 2021, Aninda Zaman, All rights reserved.
+
+'''
